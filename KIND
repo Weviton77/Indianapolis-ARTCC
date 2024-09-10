@@ -10,9 +10,12 @@
 | --- | --- | --- | --- | --- | --- |
 | INDY# | Vectored | INDY | Any | Any | 5000 |
 | MAREO# | Vectored | MAREO | Any | Any | 5000 |
+| ROCKY# | Vectored | ROCKY | Any | Any | 5000 |
+| DAWNN# | Vectored | IIU | Any | Any | 5000 |
+| DAWNN# | Vectored | MYS | Any | Any | 5000 |
 
 
-**IFR (LOGAN4) Example:**  
+**IFR (INDY) Example:**  
 Cleared to Miami Intl airport via the INDY departure, radar vectors, then as filed. Maintain 5000, expect FL300 10 minutes after departure. Departure frequency 128.175, squawk 1234.
 
 **IFR squawk code assignment:**  
