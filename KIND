@@ -1,0 +1,100 @@
+# Standard Operating Procedures
+
+# {.tabset}
+
+## DEL
+
+#### IFR
+
+| SID | SID Type | Pronounciation | Aircraft | Runways | Climb |
+| --- | --- | --- | --- | --- | --- |
+| INDY# | Vectored | INDY | Any | Any | 5000 |
+| MAREO# | Vectored | MAREO | Any | Any | 5000 |
+
+
+**IFR (LOGAN4) Example:**  
+Cleared to Miami Intl airport via the INDY departure, radar vectors, then as filed. Maintain 5000, expect FL300 10 minutes after departure. Departure frequency 128.175, squawk 1234.
+
+**IFR squawk code assignment:**  
+via Aurora
+
+#### Pre-Departure Clearance
+[PDC](/pdc) via CPDLC is available at this airport
+
+Indianapolis International airport is surrounded by class C airspace. Aircraft entering class C airspace VFR require a clearance in accordance 
+with [7110.65 Chapter 7, section 9-2](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html).
+
+**VFR Deaprture:**  
+Cleared out of the Indianapolis class charlie airspace to the west, maintain VFR at or below 2500 until further advised. Departure frequency 122.8. Squawk 0301.
+
+**VFR Local Pattern Example:**  
+Cleared to operate within the  class charlie airspace, pattern altitude 1500, expect right closed traffic runway 14, squawk 0301.
+
+**VFR squawk code assignment:**  
+via Aurora
+
+## GND
+
+#### TAXIWAYS
+
+![kmcognd.png](https://imgur.com/a/GNfDAUE.png){.align-center}
+
+![kmcognd.png](https://imgur.com/a/Lh7aBVz.png){.align-center}
+
+#### Parking Gates
+
+![kmcognd.png](https://imgur.com/a/KHi4th0.png){.align-center}
+
+#### Taxi Routes
+
+![kmcognd.png](https://imgur.com/a/QBXTnWo.png){.align-center}
+
+#### Transponder
+
+Indianapolis International Airport is facilitated with ASDE–X (Ground Radar). Pilots are required to operate transponders on mode 'active'.
+
+## TWR
+
+### Airspace
+
+-   TWR owns all **active** RWY’s.
+-   TWR owns all taxiways between runways 5L/23R and 5R/23L and 14/32
+-   The ceiling is **2500ft MSL** within a 8nm radius around the airport.
+
+![](https://imgur.com/a/AHRA9cq.png){.align-center}
+
+### Runway configuration
+
+- via [Digital ATIS](https://datis.clowd.io/KIND)
+
+### VFR
+
+**VFR Local Pattern Example:**  
+Cleared to enter Indianapoli class charlie airspace, maintain VFR at or below 2500. Pattern altitude 1500, expect left closed traffic runway 32, squawk 0301.
+
+**VFR Transition:**  
+Entering:
+- Cleared into Indianapolis class charlie airspace, proceed eastbound, maintain VFR at 2500 while in the charlie. Squawk 0301.
+
+**VFR Exiting Tower airspace:**  
+- You are leaving my airspace, squawk VFR, frequency change approved.
+- You are leaving my airspace, contact indianapolis approach on 128.175
+
+**VFR squawk code assignment:**  
+via Aurora
+
+## APP
+
+#### Airspace
+
+Indianapolis TRACON is responsible for all airports and airspace from surface up to 14000ft as depicted.
+
+
+
+
+
+
+
+
+
+
