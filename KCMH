@@ -1,0 +1,96 @@
+# Standard Operating Procedures
+
+# {.tabset}
+
+## DEL
+
+#### IFR
+
+| SID Type | Pronounciation | Aircraft | Runways | Climb |
+| --- | --- | --- | --- | --- | --- |
+| Vectored | Columbos | Jet | Any | 5000 |
+
+**IFR (LOGAN4) Example:**  
+Cleared to Miami Intl airport via the Vectors departure, radar vectors Providence VOR, then as filed. Maintain 5000, expect FL300 10 minutes after departure. Departure frequency 125.95, squawk 1234.
+
+**IFR squawk code assignment:**  
+via Aurora
+
+#### Pre-Departure Clearance
+[PDC](/pdc) via CPDLC is available at this airport.
+
+#### VFR
+
+Columbos International airport is surrounded by class C airspace. Aircraft entering class C airspace VFR require a clearance in accordance 
+with [7110.65 Chapter 7, section 9-2](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html).
+
+**VFR Deaprture:**  
+Cleared out of the Columbos class charlie airspace to the west, maintain VFR at or below 2500 until further advised. Departure frequency 122.8. Squawk 0301.
+
+**VFR Local Pattern Example:**  
+Cleared to operate within the  class charlie airspace, pattern altitude 2500, expect right closed traffic runway 28L, squawk 0301.
+
+**VFR squawk code assignment:**  
+via Aurora
+
+## GND
+
+#### TAXIWAYS
+
+![kmcognd.png](https://imgur.com/a/35WKHeW.png){.align-center}
+
+#### Parking Gates
+
+![kmcognd.png](https://imgur.com/a/ZM7ArjL.png){.align-center}
+
+![kmcognd.png](https://imgur.com/a/RDQaav2.png){.align-center}
+
+#### Transponder
+
+Columbos International Airport is facilitated with ASDE–X (Ground Radar). Pilots are required to operate transponders on mode 'active'.
+
+## TWR
+
+### Airspace
+
+Columbos International airport is surrounded by class C airspace. Aircraft entering class C airspace VFR require a clearance in accordance 
+with [7110.65 Chapter 7, section 9-2](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html).
+
+### Area of Responsibility
+
+-   TWR owns all **active** RWY’s.
+-   TWR owns all taxiways between runways 28L/10R and 28R/10L
+-   The ceiling is **2500ft MSL** within a 8nm radius around the airport.
+
+![](https://imgur.com/a/QYN0mZr.png){.align-center}
+
+### Runway configuration
+
+- via [Digital ATIS](https://datis.clowd.io/KCMH)
+
+### VFR
+
+**VFR Local Pattern Example:**  
+Cleared to enter Columbos class charlie airspace, maintain VFR at or below 2500. Pattern altitude 2500, expect left closed traffic runway 28L and 10R, squawk 0301.
+
+**VFR Transition:**  
+Entering:
+- Cleared into Columbos class charlie airspace, proceed eastbound, maintain VFR at 2500 while in the charlie. Squawk 0301.
+
+**VFR Exiting Tower airspace:**  
+- You are leaving my airspace, squawk VFR, frequency change approved.
+- You are leaving my airspace, contact Columbos approach on 125.950
+
+**VFR squawk code assignment:**  
+via Aurora
+
+## APP
+
+#### Airspace
+
+Columbos TRACON is responsible for all airports and airspace from surface up to 10000ft as depicted.
+
+![](https://imgur.com/a/LoFRGDd.png){.align-center}
+
+
+
