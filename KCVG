@@ -1,0 +1,113 @@
+# Standard Operating Procedures
+
+# {.tabset}
+
+## DEL
+
+#### IFR
+
+| SID | SID Type | Pronounciation | Aircraft | Runways | Climb |
+| --- | --- | --- | --- | --- | --- |
+| BNGLE# | RNAV | Bangle | Jet | Any | 5000 |
+| CHCLL# | RNAV | Chcll | Jet | Any | 5000 |
+| CVG# | Vectored | Cincinnati | Jet | Any | 5000 |
+| GIPLE# | RNAV | Giple | Jet | Any | 5000 |
+| HAGOL# | RNAV | Hagol | Jet | Any | 5000 |
+| JBNCH# | RNAV |  | Any | Any | 5000 |
+| KENLN# | RNAV | Kenln | Jet | Any | 5000 |
+| LOVEY# | RNAV | Lovey | Jet | Any | 5000 |
+| ROCKT# | RNAV | Rockt | Jet | Any | 5000|
+| SILKS# | RNAV | Silks | Jet | Any | 5000|
+
+**IFR (RNAV SID) Example**  
+Cleared to Miami Intl airport via the KENLN6 departure, then as filed. Maintain 5000, expect FL300 10 minutes after departure. Departure frequency 119.7, squawk 1234.
+
+**IFR (CVG) Example:**  
+Cleared to Miami Intl airport via the CVG6 departure, radar vectors Providence VOR, then as filed. Maintain 5000, expect FL300 10 minutes after departure. Departure frequency 119.7, squawk 1234.
+
+**IFR squawk code assignment:**  
+via Aurora
+
+#### Pre-Departure Clearance
+[PDC](/pdc) via CPDLC is available at this airport.
+
+#### VFR
+
+Cincinnati International airport is surrounded by class C airspace. Aircraft entering class C airspace VFR require a clearance in accordance 
+with [7110.65 Chapter 7, section 9-2](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html).
+
+**VFR Deaprture:**  
+Cleared out of the Cincinnati class charlie airspace to the west, maintain VFR at or below 2500 until further advised. Departure frequency 122.8. Squawk 0301.
+
+**VFR Local Pattern Example:**  
+Cleared to operate within the  class charlie airspace, pattern altitude 1500, expect right closed traffic runway 36C/18C/27/09/18R/36L, squawk 0301.
+
+**VFR squawk code assignment:**  
+via Aurora
+
+## GND
+
+![kmcognd.png](https://imgur.com/a/LCRnQRh.png){.align-center}
+
+![kmcognd.png](https://imgur.com/a/wfejeb5.png){.align-center}
+
+#### Parking Gates
+
+![kmcognd.png](https://imgur.com/a/7x4jeiR.png){.align-center}
+
+![kmcognd.png](https://imgur.com/a/FHy6lzH.png){.align-center}
+
+![kmcognd.png](https://imgur.com/a/BB5C1dK.png){.align-center}
+
+#### A380 Approved Taxi Routes
+
+![kmcognd.png](https://imgur.com/a/yuwTXLW.png){.align-center}
+
+#### Transponder
+
+Cincinnati International Airport is facilitated with ASDE–X (Ground Radar). Pilots are required to operate transponders on mode 'active'.
+
+## TWR
+
+### Airspace
+
+Indianapolis International airport is surrounded by class C airspace. Aircraft entering class C airspace VFR require a clearance in accordance 
+with [7110.65 Chapter 7, section 9-2](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html).
+
+### Area of Responsibility
+
+-   TWR owns all **active** RWY’s.
+-   TWR owns all taxiways between runways 36R/18L  36C/18C  36L/18R  27/09
+-   The ceiling is **2500ft MSL** within a 8nm radius around the airport.
+
+![](https://imgur.com/a/8OKdajq.png){.align-center}
+
+### Runway configuration
+
+- via [Digital ATIS](https://datis.clowd.io/KCVG)
+
+### VFR
+
+**VFR Local Pattern Example:**  
+Cleared to enter Cincinnati class charlie airspace, maintain VFR at or below 2500. Pattern altitude 2500, expect left closed traffic runway 336C/18C/27/09/18R/36L, squawk 0301.
+
+**VFR Transition:**  
+Entering:
+- Cleared into Cincinnati class charlie airspace, proceed eastbound, maintain VFR at 3500 while in the charlie. Squawk 0301.
+
+**VFR Exiting Tower airspace:**  
+- You are leaving my airspace, squawk VFR, frequency change approved.
+- You are leaving my airspace, contact Cincinnati approach on 119.700
+
+**VFR squawk code assignment:**  
+via Aurora
+
+## APP
+
+#### Airspace
+
+Cincinnati TRACON is responsible for all airports and airspace from surface up to 15000ft as depicted.
+
+![](https://imgur.com/a/nN6Uh8o.png){.align-center}
+
+
