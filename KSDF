@@ -1,0 +1,97 @@
+# Standard Operating Procedures
+
+# {.tabset}
+
+## DEL
+
+#### IFR
+
+| SID | SID Type | Pronounciation | Aircraft | Runways | Climb |
+| --- | --- | --- | --- | --- | --- |
+| EEVAA# | RNAV | Blisser | Jet | 17L/R 29, 35L/R | 13000 |
+| GTGON# | RNAV | Broon | Jet | 17L/R 29, 35L/R | 13000 |
+| HIDEY# | RNAV | Seltik | Jet | 17L/R 29, 35L/R | 13000 |
+| LLIZY# | RNAV | Highland | Jet | 17L/R 29, 35L/R | 13000 |
+| LOKRD# | RNAV | Lobster | Jet | 17L/R 29, 35L/R | 13000 |
+| RDHSE# | RNAV | Pats | Jet | 17L/R 29, 35L/R | 13000 |
+| SPILR# | RNAV | Revs | Jet | 17L/R 29, 35L/R | 13000 |
+
+**IFR (RNAV SID) Example**  
+Cleared to Miami Intl airport via the LOKRD1 departure, then as filed. Maintain 13000, expect FL300 10 minutes after departure. Departure frequency 132.075, squawk 1234.
+
+**IFR squawk code assignment:**  
+via Aurora
+
+#### Pre-Departure Clearance
+[PDC](/pdc) via CPDLC is available at this airport.
+
+#### VFR
+
+Louisville International airport is surrounded by class C airspace. Aircraft entering class C airspace VFR require a clearance in accordance 
+with [7110.65 Chapter 7, section 9-2](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html).
+
+**VFR Deaprture:**  
+Cleared out of the Louisville class charlie airspace to the west, maintain VFR at or below 2500 until further advised. Departure frequency 122.8. Squawk 0301.
+
+**VFR Local Pattern Example:**  
+Cleared to operate within the  class charlie airspace, pattern altitude 1500, expect right closed traffic runway 17R/35L, squawk 0301.
+
+**VFR squawk code assignment:**  
+via Aurora
+
+## GND
+
+![kmcognd.png](https://imgur.com/a/8QHq4hp.png){.align-center}
+
+![kmcognd.png](https://imgur.com/a/jwEcOf9.png){.align-center}
+
+#### 748 Approved Taxi Routes
+
+![kmcognd.png](https://imgur.com/a/i8TbYiS.png){.align-center}
+
+#### Transponder
+
+Louisville International Airport is not facilitated ground radar. Pilots are not required to operate transponders on mode ‘active’.
+
+## TWR
+
+### Airspace
+
+Louisville International airport is surrounded by class C airspace. Aircraft entering class C airspace VFR require a clearance in accordance 
+with [7110.65 Chapter 7, section 9-2](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html).
+
+### Area of Responsibility
+
+-   TWR owns all **active** RWY’s.
+-   TWR owns all taxiways between runways 36R/18L  17R/35L  17L/35R  29/11
+-   The ceiling is **2500ft MSL** within a 8nm radius around the airport.
+
+![](https://imgur.com/a/NdOWHRH.png){.align-center}
+
+### Runway configuration
+
+- via [Digital ATIS](https://datis.clowd.io/KSDF)
+
+### VFR
+
+**VFR Local Pattern Example:** 
+Join left downwind runway 17L, report midfield with intentions.
+
+**VFR Transition:**  
+Entering:
+- Proceed eastbound, maintain VFR at 2500 while in the charlie.
+
+**VFR Exiting Tower airspace:**  
+- You are leaving my airspace, squawk VFR, frequency change approved.
+- You are leaving my airspace, contact Louisville approach on 132.075
+
+**VFR squawk code assignment:**  
+via Aurora
+
+## APP
+
+#### Airspace
+
+Louisville TRACON is responsible for all airports and airspace from surface up to 10000ft as depicted.
+
+![](https://imgur.com/a/Ck7KNLw.png){.align-center}
