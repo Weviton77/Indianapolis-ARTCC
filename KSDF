@@ -8,13 +8,13 @@
 
 | SID | SID Type | Pronounciation | Aircraft | Runways | Climb |
 | --- | --- | --- | --- | --- | --- |
-| EEVAA# | RNAV | Blisser | Jet | 17L/R 29, 35L/R | 13000 |
-| GTGON# | RNAV | Broon | Jet | 17L/R 29, 35L/R | 13000 |
-| HIDEY# | RNAV | Seltik | Jet | 17L/R 29, 35L/R | 13000 |
-| LLIZY# | RNAV | Highland | Jet | 17L/R 29, 35L/R | 13000 |
-| LOKRD# | RNAV | Lobster | Jet | 17L/R 29, 35L/R | 13000 |
-| RDHSE# | RNAV | Pats | Jet | 17L/R 29, 35L/R | 13000 |
-| SPILR# | RNAV | Revs | Jet | 17L/R 29, 35L/R | 13000 |
+| EEVAA# | RNAV | eevaa | Jet | 17L/R 29, 35L/R | 13000 |
+| GTGON# | RNAV | gtgon | Jet | 17L/R 29, 35L/R | 13000 |
+| HIDEY# | RNAV | hidey | Jet | 17L/R 29, 35L/R | 13000 |
+| LLIZY# | RNAV | llizy | Jet | 17L/R 29, 35L/R | 13000 |
+| LOKRD# | RNAV | lokrd | Jet | 17L/R 29, 35L/R | 13000 |
+| RDHSE# | RNAV | rdhse | Jet | 17L/R 29, 35L/R | 13000 |
+| SPILR# | RNAV | spilr | Jet | 17L/R 29, 35L/R | 13000 |
 
 **IFR (RNAV SID) Example**  
 Cleared to Miami Intl airport via the LOKRD1 departure, then as filed. Maintain 13000, expect FL300 10 minutes after departure. Departure frequency 132.075, squawk 1234.
